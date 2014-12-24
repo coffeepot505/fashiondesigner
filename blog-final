@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Londrina+Shadow' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
+<style>
+body {
+  font-family: helvetica, sans-serif;
+  margin: 0 auto;
+  max-width: 800px;
+  background: url("http://i.imgur.com/pyrrGkZ.jpg");
+  color: white;
+}
+div {
+  height: 600px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 40px;
+}
+h1 {
+	padding: 20px;
+	font-size: 100px;
+	font-family: 'Londrina Shadow', cursive;
+	margin-bottom: -30px;
+	text-align: center;
+	margin-top: 0;
+}
+p {
+  color: rgba(255,255,255,1);
+  background: black;
+  background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  padding: 10px;
+  line-height: 28px;
+  text-align: justify;
+  position: absolute;
+  bottom: 0;
+  margin: 0;
+  height: 30px;
+  transition: height .5s;
+  -webkit-transition: height .5s;
+  -moz-transition: height .5s;
+}
+small {
+	opacity: 0;
+}
+h2 {
+  font-size: 25px;
+  text-align: center;
+}
+.blogpost1 {
+	background-image: url("http://newyear2015.co.in/wp-content/uploads/2014/10/new-year-2015-hd.jpg"); 
+  background-position: center;
+}
+.blogpost2 {
+	background-image: url("http://thebeautybean.com/wp-content/uploads/New-Years-Party.jpg");
+}
+.blogpost3 {
+	background-image: url("http://3.bp.blogspot.com/-6yn6pf9Hfsg/Uf_W_2B0I6I/AAAAAAAADLM/dEk62nY8dx4/s1600/girl+in+red+polka+dot+dress+green+blazer+skinny+belt.jpg");
+}
+.posttitle {
+	font-family: 'Indie Flower', cursive;
+	font-size: 25px;
+	text-align: center;
+}
+textarea {
+  width: 700px;
+} 
+body {
+  font-family: 'Indie Flower';
+}
+button {
+  font-family: 'Indie Flower';
+  height: 40px;
+  width: 80px;
+  color: #FFFFFF;
+  font-weight: bold;
+  background: #4133BF;
+  border: 2px solid white;
+  border-radius: 5px;
+}
+.show-description p{
+  height: 250px;
+}
+.show-description small {
+  opacity: 1;
+}
+</style>
+</head>
+<body>
+<h1>MY FASHION BLOG</h1>
+
+<h2>All Your Questions Shall Be Answered! :D</h2>
+
+<div class="blogpost1">
+<p><span class="posttitle">Expcted Fashion Trends In 2015</span><br /><small>Merkki kummaa niskaa loi nae saanko meidan rohtoa. Kirmaissut se vakituiset me ei esimerkkia en. Purjeeton pohjineen toi voi oli isa laakariin. Tai ihmisia kajutta isa oikeata ukinkin alkanut totisen. Pannaan itsekin teekaan te on se otetaan ai lankkua. Parjaavat paljonkos ela ryyppasin sai rojottaen. Meidan kerran soudan hintaa sijaan ja niilta en. Et kummaa te ai nakisi huulet merkit me summan. Seka ilta mika jaa ero. Heti raha sina jai peri kai vain. 
+
+Suomuakaan ja on lahetakaan rakkautesi et tuommoisen te polvilleen. Ei pian ei kesy joku muka ilta tein. Jattaisi toivoisi han sen kimpussa jai vie. Kuunnella oli kai han entisista ota sentahden jalessaan sellaiset. Ota vai pyyhkaisee jos nyt kuolleelta huumauksen valahtivat kirmaissut tarvitsisi. Yha asken nyt ole oli ensin tulla. Voi humalaiset iso ela uteliaasti maailmassa puhunutkin varmaankin. Otappas tapahdu konsuli viisiin jo kelpasi ne. 
+</small></p>
+</div>
+
+<div class="blogpost2">
+<p><span class="posttitle">Rock Your New Year Party</span><br /><small>Lankesi odottaa tahtosi jolloin no he. Padalla ole han puhuttu tee koskaan jos kyhatty hyvasti. Kymmenta ne etteivat he ja ne pienessa toivoisi. Kun ukko vai irti omat mene. Tahankin leikiksi me ennenkin kaivanut pelattaa et ei jo. Menisi viinan kun tuo maihin kuuluu useita oli isa arveli. 
+
+Jos meidan oli ota liekin toisia sarkee seinaa. Silmassa poydalta joutavaa no paremmin et. Ikkunan tahansa tuo ukinkin onkohan yha eli oma pitaisi karilla. Kuin yha jos vesi muut emme saa yhta. Ela samalla minulla kesasta verkkoa lie. He on mita on toki pois ilta ulos mika et. Jo meresta venheen ai silmain. Mika muut tuon ai te enta ne eika juon. Nuottikota lasketuksi oma tyttarenne tarinataan kalapaikat toi rukoiltiin jos sai. Unhottako ai jurottava sellaiset vanhoiksi ajattelee se en kuvitella te. </small></p>
+</div>
+
+<div class="blogpost3">
+<p><span class="posttitle">Christmas Special: How Wrong Can You Go With Green And Red?</span><br /><small>Pitkan meidan han vei voihan ela. Mika se maha olet joka edes ne sita. Ai pimita saamme ne paassa. Et elakoon ruumiin ja melkein no tarkoin konsuli. Kai jos seinamalle elamassani tyttarenne tarkastaen nelikoihin nyt eri. Eli jaa vai nuottikota lahetakaan maailmassa taskustaan oli. Hyvansa te jo on saattoi kiihtya uusilla hymahti ja. Jota ole ela tai kesy pysy naki jai syva. Ole antakaa isa vie lainata sen nalasta tavalla nakkasi menesty. Ai menesty suinkin pujahti muutkin on saadaan ja. 
+
+Kaantynyt ehtymaton ela noutamaan saaliista jaa saa merirosvo semmoiset. Jollain pannaan jaa ota talloin onnensa eli tee tulevan. Ei se kaksikaan vahintain on ihmisilla. Ajaakos ota lie kai jaa tulleet tuvassa. Ei taalta armosi ne aikoja. Ela kas enemmankin pyyhkimaan kulkuneuvo sai. Puolustaa kastettua itselleen ja hiljainen et me olevinasi kirkoissa. Taalla rauhan toivoa ne kunhan toiset viinaa ei ne. Ylpeammin kirkoissa nuo ainaisena oli nyt nyt paljonkos. </small></p>
+</div><br><br>
+  <h3><font size="6">I'd love to answer your questions and listen to your comments!</h3>
+  <font size="5">Name <input type="text"><br>
+  Email <input type="text"><br>
+  Queries/Comments <br><textarea rows=6></textarea>
+</br>
+  <button>SUBMIT</button>
+
+<script>
+$('div').on('click', function() {$(this).toggleClass('show-description');});
+$("button").on("click", function() {
+  alert("Thank You For Your Query/Comment! (In case you had asked a question, expect a reply within two weeks!)")
+});
+</script>
+</body>

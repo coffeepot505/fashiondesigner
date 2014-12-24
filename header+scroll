@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+
+<head>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js" type="text/javascript"></script>
+	<link href='http://fonts.googleapis.com/css?family=Londrina+Shadow' rel='stylesheet' type='text/css'>
+	<style>
+	   body {
+	   	font-family: helvetica sans-serif; 
+	   	background: url("http://p1.pichost.me/640/27/1502199.jpg")
+	   }
+	   header {
+	   	background: url("http://4.bp.blogspot.com/-e7Bd9HXXv84/UAdfKTW9LHI/AAAAAAAAAG4/eoKzurgRB2s/s1600/blog%2Bheader%2B3%2B.jpg");
+	   	background-position: center;
+	   	background-size: auto;
+	   	text-align: center;
+	   }
+	   ul {
+	   	font-weight: bold;
+	   	padding: 10px; 
+	   	background: rgba(0,0,0,0.5);
+	   	margin-top: 220px;
+	   }
+	   li {
+	   	display: inline-block;
+	   	padding: 0 10px 0 10px;
+	   }
+	   a {
+	   	color: #C00000;
+	   }
+       .hello {
+       	border: 7px solid black;
+       	margin: 10px;
+       }
+       .heading {font-size: 30px;}
+       h5 {
+       	font-size: 100px;
+       	font-family: 'Londrina Shadow', cursive;
+       	color: #FFCC00;
+       	position: relative;
+       	top: -140px;
+        margin-bottom: -75px;
+       } 
+    </style>
+</head>
+
+<body>
+
+	<header>
+		<img src="">
+		<ul>
+			<li><a class="jumper1" href="#portfolio">Portfolio</a></li>
+            <li><a class="jumper2" href="#designs">Designs</a></li>
+			<li><a class="jumper3" href="#blog">Blog</a></li>
+			<li><a class="jumper4" href="#contact">Contact</a></li>
+		</ul>
+	</header>
+	<h5>XYZ's STYLE</h5>
+	<div class="portfolio hello">
+	  <h1 class="heading">One</h1>
+	  <p>Dubai (/duːˈbaɪ/ doo-BY; Arabic: دبيّ‎ Dubayy, IPA: [dʊˈbæj]) is the most populous city and emirate in the United Arab Emirates (UAE), and the second largest emirate by territorial size after the capital, Abu Dhabi.[3]
+
+Dubai is located on the southeast coast of the Persian Gulf and is one of the seven emirates that make up the country. Abu Dhabi and Dubai are the only two emirates to have veto power over critical matters of national importance in the country's legislature.[4] The city of Dubai is located on the emirate's northern coastline and heads up the Dubai-Sharjah-Ajman metropolitan area. Dubai recently won the bid for the World Expo 2020.[5]
+
+Today, Dubai has emerged as a global city and business hub of the Persian Gulf region.[6] It is also a major transport hub for passengers and cargo. By the 1960s Dubai's economy was based on revenues from trade and, to a smaller extent, oil exploration concessions, but oil wasn't discovered until 1966. Oil revenue first started to flow in 1969.[7] Dubai's oil revenue helped accelerate the early development of the city, but its reserves are limited and production levels are low: today, less than 5% of the emirates' revenue comes from oil.[8] The emirate's Western-style model of business drives its economy with the main revenues now coming from tourism, aviation, real estate, and financial services.[9][10][11] Dubai has recently attracted world attention through many innovative large construction projects and sports events. The city has become symbolic for its skyscrapers and high-rise buildings, in particular the world's tallest building, the Burj Khalifa. Dubai has been criticised for human rights violations concerning the city's largely South Asian workforce.[12] Dubai's property market experienced a major deterioration in 2008–2009 following the financial crisis of 2007-2008,[13] but is making a gradual recovery with help from neighbouring emirates.[14]
+
+As of 2012, Dubai is the 22nd most expensive city in the world and the most expensive city in the Middle East.[15][16] In 2014, Dubai's hotel rooms were rated as the second most expensive in the world, after Geneva.[17] Dubai was rated as one of the best places to live in the Middle East by American global consulting firm Mercer.[18]</p>
+	</div>
+	<div class="designs hello">
+	  <h2 class="heading">Two</h2>
+	  <p>Dubai (/duːˈbaɪ/ doo-BY; Arabic: دبيّ‎ Dubayy, IPA: [dʊˈbæj]) is the most populous city and emirate in the United Arab Emirates (UAE), and the second largest emirate by territorial size after the capital, Abu Dhabi.[3]
+
+Dubai is located on the southeast coast of the Persian Gulf and is one of the seven emirates that make up the country. Abu Dhabi and Dubai are the only two emirates to have veto power over critical matters of national importance in the country's legislature.[4] The city of Dubai is located on the emirate's northern coastline and heads up the Dubai-Sharjah-Ajman metropolitan area. Dubai recently won the bid for the World Expo 2020.[5]
+
+Today, Dubai has emerged as a global city and business hub of the Persian Gulf region.[6] It is also a major transport hub for passengers and cargo. By the 1960s Dubai's economy was based on revenues from trade and, to a smaller extent, oil exploration concessions, but oil wasn't discovered until 1966. Oil revenue first started to flow in 1969.[7] Dubai's oil revenue helped accelerate the early development of the city, but its reserves are limited and production levels are low: today, less than 5% of the emirates' revenue comes from oil.[8] The emirate's Western-style model of business drives its economy with the main revenues now coming from tourism, aviation, real estate, and financial services.[9][10][11] Dubai has recently attracted world attention through many innovative large construction projects and sports events. The city has become symbolic for its skyscrapers and high-rise buildings, in particular the world's tallest building, the Burj Khalifa. Dubai has been criticised for human rights violations concerning the city's largely South Asian workforce.[12] Dubai's property market experienced a major deterioration in 2008–2009 following the financial crisis of 2007-2008,[13] but is making a gradual recovery with help from neighbouring emirates.[14]
+
+As of 2012, Dubai is the 22nd most expensive city in the world and the most expensive city in the Middle East.[15][16] In 2014, Dubai's hotel rooms were rated as the second most expensive in the world, after Geneva.[17] Dubai was rated as one of the best places to live in the Middle East by American global consulting firm Mercer.[18]</p>
+	</div>
+	<div class="blog hello">
+	  <h3 class="heading">Three</h3>
+	  <p>Dubai (/duːˈbaɪ/ doo-BY; Arabic: دبيّ‎ Dubayy, IPA: [dʊˈbæj]) is the most populous city and emirate in the United Arab Emirates (UAE), and the second largest emirate by territorial size after the capital, Abu Dhabi.[3]
+
+Dubai is located on the southeast coast of the Persian Gulf and is one of the seven emirates that make up the country. Abu Dhabi and Dubai are the only two emirates to have veto power over critical matters of national importance in the country's legislature.[4] The city of Dubai is located on the emirate's northern coastline and heads up the Dubai-Sharjah-Ajman metropolitan area. Dubai recently won the bid for the World Expo 2020.[5]
+
+Today, Dubai has emerged as a global city and business hub of the Persian Gulf region.[6] It is also a major transport hub for passengers and cargo. By the 1960s Dubai's economy was based on revenues from trade and, to a smaller extent, oil exploration concessions, but oil wasn't discovered until 1966. Oil revenue first started to flow in 1969.[7] Dubai's oil revenue helped accelerate the early development of the city, but its reserves are limited and production levels are low: today, less than 5% of the emirates' revenue comes from oil.[8] The emirate's Western-style model of business drives its economy with the main revenues now coming from tourism, aviation, real estate, and financial services.[9][10][11] Dubai has recently attracted world attention through many innovative large construction projects and sports events. The city has become symbolic for its skyscrapers and high-rise buildings, in particular the world's tallest building, the Burj Khalifa. Dubai has been criticised for human rights violations concerning the city's largely South Asian workforce.[12] Dubai's property market experienced a major deterioration in 2008–2009 following the financial crisis of 2007-2008,[13] but is making a gradual recovery with help from neighbouring emirates.[14]
+
+As of 2012, Dubai is the 22nd most expensive city in the world and the most expensive city in the Middle East.[15][16] In 2014, Dubai's hotel rooms were rated as the second most expensive in the world, after Geneva.[17] Dubai was rated as one of the best places to live in the Middle East by American global consulting firm Mercer.[18]</p>
+	</div>
+	<div class="contact hello">
+	  <h4 class="heading">Four</h4>
+	  <p>Dubai (/duːˈbaɪ/ doo-BY; Arabic: دبيّ‎ Dubayy, IPA: [dʊˈbæj]) is the most populous city and emirate in the United Arab Emirates (UAE), and the second largest emirate by territorial size after the capital, Abu Dhabi.[3]
+
+Dubai is located on the southeast coast of the Persian Gulf and is one of the seven emirates that make up the country. Abu Dhabi and Dubai are the only two emirates to have veto power over critical matters of national importance in the country's legislature.[4] The city of Dubai is located on the emirate's northern coastline and heads up the Dubai-Sharjah-Ajman metropolitan area. Dubai recently won the bid for the World Expo 2020.[5]
+
+Today, Dubai has emerged as a global city and business hub of the Persian Gulf region.[6] It is also a major transport hub for passengers and cargo. By the 1960s Dubai's economy was based on revenues from trade and, to a smaller extent, oil exploration concessions, but oil wasn't discovered until 1966. Oil revenue first started to flow in 1969.[7] Dubai's oil revenue helped accelerate the early development of the city, but its reserves are limited and production levels are low: today, less than 5% of the emirates' revenue comes from oil.[8] The emirate's Western-style model of business drives its economy with the main revenues now coming from tourism, aviation, real estate, and financial services.[9][10][11] Dubai has recently attracted world attention through many innovative large construction projects and sports events. The city has become symbolic for its skyscrapers and high-rise buildings, in particular the world's tallest building, the Burj Khalifa. Dubai has been criticised for human rights violations concerning the city's largely South Asian workforce.[12] Dubai's property market experienced a major deterioration in 2008–2009 following the financial crisis of 2007-2008,[13] but is making a gradual recovery with help from neighbouring emirates.[14]
+
+As of 2012, Dubai is the 22nd most expensive city in the world and the most expensive city in the Middle East.[15][16] In 2014, Dubai's hotel rooms were rated as the second most expensive in the world, after Geneva.[17] Dubai was rated as one of the best places to live in the Middle East by American global consulting firm Mercer.[18]</p>
+	</div>
+
+  <script type="text/javascript">
+	
+	alert("hi");
+    function scrollToElement(selector, time, verticalOffset) {
+    	time = typeof(time) != 'undefined' ? time : 1000;
+    	verticalOffset = typeof(verticalOffset) != 'undefined' ? verticalOffset : 0;
+    	element = $(selector);
+    	offset = element.offset();
+    	offsetTop = offset.top + verticalOffset;
+    	$('html, body').animate({
+    		scrollTop: offsetTop
+    	}, time);
+    }
+    $('.jumper1').click(function(){
+    	scrollToElement('.portfolio');
+    });
+    $('.jumper2').click(function(){
+    	scrollToElement('.designs');
+    });
+    $('.jumper3').click(function(){
+    	scrollToElement('.blog');
+    });
+    $('.jumper4').click(function(){
+    	scrollToElement('.contact');
+    });
+
+  </script>
+</body>
